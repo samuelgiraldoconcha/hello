@@ -1,0 +1,14 @@
+$primary-text: black;
+$secondary-text: purple;
+
+ul {
+    font-size: 18;
+    font-family: Helvetica, sans-serif;
+    color: $primary-text;
+}
+
+ol {
+    font-size: 14;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: $secondary-text;
+}
